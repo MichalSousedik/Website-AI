@@ -350,7 +350,7 @@ export default function Home() {
               </div>
               <div className="mt-8 pt-6 border-t border-border/50">
                 <p className="text-xs text-foreground/50 italic">
-                  They say the cobbler\'s kids go barefoot... well, in my case, this whole website was whipped up by AI.
+                  They say the cobbler kids go barefoot... well, in my case, this whole website was whipped up by AI.
                 </p>
               </div>
             </div>
